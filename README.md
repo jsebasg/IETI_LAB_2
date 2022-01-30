@@ -9,17 +9,29 @@
 ![img/post2.png](img/post2.png)
 
 ### - Get
+
 ![img/get.png](img/get.png)
+
 ### - Put
+
 ![img/put.png](img/put.png)
+
 verification:
-![img/getPut.png](img/getPut.png)
+
+![img/getPut.png](img/getput.png)
+
 ### - Delete
-valid: 
+
+valid:
+
 ![img/delete.png](img/delete.png)
-invalid : 
+
+invalid :
+
 ![img/delete2.png](img/delete2.png)
+
 verification:
+
 ![img/getDelete.png](img/getDelete.png)
 
 
